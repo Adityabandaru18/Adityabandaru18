@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently expanding my skills in Backend development (Beginner) after successfully gaining a gripping edge on the front-end skills and tools that the present tech world is looking for.
 
-- 🔭 "I'm the person who's constantly eager to explore and embrace the latest trends and developer tools in the ever-evolving tech world."
+- 🔭 "Besides web development, AI tools such as Prompt Engineering is something I would like to work on as AI is gonna dominate the world."
 
 - 📫 Feel free to reach me at **adityabandaru70@gmail.com**
 
