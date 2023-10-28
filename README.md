@@ -3,9 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityabandaru18&label=Profile%20views&color=0e75b6&style=flat" alt="adityabandaru18" /> </p>
 
+- 🌱 I’m currently learning Backend Development **Nodejs Expressjs**
+
+- 📫 Reach me at **adityabandaru70@gmail.com**
+
+- ⚡ Fun fact **I Always try to be good**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adityabandaru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityabandaru" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/http://www.linkedin.com/in/aditya-bandaru-833909253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/aditya-bandaru-833909253" height="30" width="40" /></a>
 <a href="https://instagram.com/aditya_bandaru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya_bandaru" height="30" width="40" /></a>
 </p>
 
@@ -15,4 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityabandaru18&show_icons=true&locale=en&layout=compact" alt="adityabandaru18" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityabandaru18&show_icons=true&locale=en" alt="adityabandaru18" /></p>
-
