@@ -1,5 +1,4 @@
 <h1 align="center">Heyyy, I'm Aditya⚡️ </h1>
-<h2 align="center" style=" color: "red">Front-end development: Where creativity meets functionality</h2>
 <br>
 
 - 🌱 I’m currently expanding my skills in Backend development (Beginner) after successfully gaining a gripping edge on the front-end skills and tools that the present tech world is looking for.
