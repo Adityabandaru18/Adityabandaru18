@@ -7,7 +7,9 @@
 
 - 👯 I have a strong interest in contributing to open-source projects.
 
-- 📫 Feel free to reach me at **adityabandaru70@gmail.com**
+- 📫 Feel free to reach me!
+     email: **adityabandaru70@gmail.com**
+     Contact: **+91 8790575805**
 
 
 <h3 align="left">Connect with me:</h3>
