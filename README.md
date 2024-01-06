@@ -10,6 +10,7 @@
 - 📫 Feel free to reach me!
      <br/>
      email: **adityabandaru70@gmail.com**
+     <br/>
      contact: **+91 8790575805**
 
 
