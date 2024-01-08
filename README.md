@@ -1,6 +1,7 @@
 <h1 align="center">Hey👋, I'm Aditya</h1>
 <h3 align="center">"Web Weaver and Open Source Enthusiast from India."</h3>
 
+[![An image of @adityabandaru18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityabandaru18)](https://holopin.io/@adityabandaru18)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityabandaru18&label=Profile%20views&color=0e75b6&style=flat" alt="adityabandaru18" /> </p>
 
 - 🔭 I’m currently working on **MERN stack development**
