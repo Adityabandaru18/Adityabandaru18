@@ -1,19 +1,34 @@
 <h1 align="center">Hey👋, I'm Aditya</h1>
 <h3 align="center">"Web Weaver and Open Source Enthusiast from India."</h3>
-
-[![An image of @adityabandaru18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityabandaru18)](https://holopin.io/@adityabandaru18)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityabandaru18&label=Profile%20views&color=0e75b6&style=flat" alt="adityabandaru18" /> </p>
-
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=adityabandaru18&label=Profile%20views&color=0e75b6&style=flat" alt="adityabandaru18" /> 
+</p>
+<!-- Create a table with two columns -->
+<table>
+  <tr>
+    <td>
+    
 - 🔭 I’m currently working on **MERN stack development**
-
 - 👯 I have a strong interest in contributing to open-source projects.
-
 - 📫 Feel free to reach me!
      <br/>
      <br/>
      email: **adityabandaru70@gmail.com**
      <br/>
      contact: **+91 8790575805**
+    
+    </td>
+    <td>
+
+<!-- Dev Card image aligned to the right -->
+<a href="https://app.daily.dev/adityabandaru" align="center">
+  <img src="https://api.daily.dev/devcards/64bcce7d7c8646b38df0c3947b2bd0c5.png?r=brx" width="400" alt="Aditya Bandaru's Dev Card"/>
+</a>
+
+    </td>
+  </tr>
+</table>
+
 
 
 <h3 align="left">Connect with me:</h3>
