@@ -9,13 +9,6 @@
     <td>
     
 - 🔭 I’m currently working on **MERN stack development**
-- 🔭 I’m currently working on **MERN stack development**
-- 🔭 I’m currently working on **MERN stack development**
-- 🔭 I’m currently working on **MERN stack development**
-- 🔭 I’m currently working on **MERN stack development**
-- 🔭 I’m currently working on **MERN stack development**
-- 🔭 I’m currently working on **MERN stack development**
-- 🔭 I’m currently working on **MERN stack development**
 - 👯 I have a strong interest in contributing to open-source projects.
 - 📫 Feel free to reach me!
      <br/>
