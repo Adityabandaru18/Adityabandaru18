@@ -5,7 +5,7 @@
 </p>
 
 
-- 🔭 I’m currently working on **MERN stack development**
+- 🔭 I’m currently learning Figma
 - 📫 Feel free to reach me!
      <br/>
      <br/>
