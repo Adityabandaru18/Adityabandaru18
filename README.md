@@ -5,8 +5,8 @@
 </p>
 
 
-- 🔭 I’m currently learning Backend Development
-- 📫 Feel free to reach me!
+- 🔭 I’m currently learning Backend Development.
+-  📫 Feel free to reach me!
      <br/>
      <br/>
      email: **adityabandaru70@gmail.com**
