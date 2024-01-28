@@ -5,7 +5,7 @@
 </p>
 
 
-- 🔭 I’m currently learning Figma
+- 🔭 I’m currently learning Backend Development
 - 📫 Feel free to reach me!
      <br/>
      <br/>
