@@ -5,7 +5,7 @@
 </p>
 
 
-- 🔭 I’m currently learning Reactjs.
+- 🔭 I’m currently learning Backend development.
 -  📫 Feel free to reach me!
      <br/>
      <br/>
