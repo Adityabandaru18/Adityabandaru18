@@ -7,7 +7,7 @@
 
 - 📫 Contact me: **adityabandaru70@gmail.com**
   
-<p align="left" style="position: relative; z-index: 100; bottom: 500px;">
+<p align="center" style="position: relative; z-index: 100; bottom: 500px;">
   <img src="https://github.com/Adityabandaru18/Portfolio/assets/127210540/711d83a5-0d89-4f00-be08-f15204cb423c" alt="Profile Image" style="max-width: 100%; height: 300px;">
 </p>
 
