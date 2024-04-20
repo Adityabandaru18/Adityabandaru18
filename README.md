@@ -1,5 +1,5 @@
-<h1 align="center">Heyy 👋, I'm Aditya</h1>
-<h3 align="center">Web developer from India</h3>
+<h1 align="center">Heyy 🙋‍♂️, I'm Aditya</h1>
+<h3 align="center">Web weaver and Competetive programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityabandaru18&label=Profile%20views&color=0e75b6&style=flat" alt="adityabandaru18" /> </p>
 
