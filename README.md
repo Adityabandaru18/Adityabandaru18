@@ -1,11 +1,11 @@
-<h1 align="center">Heyy 🙋‍♂️, I'm Aditya</h1>
-<h3 align="center">Web weaver and Competetive programmer from India</h3>
+<h1 align="center">Heyy, I'm Aditya🚀</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityabandaru18&label=Profile%20views&color=0e75b6&style=flat" alt="adityabandaru18" /> </p>
 
 - 🔭 I’m currently learning **Full stack development**
 
 - 📫 Contact me: **adityabandaru70@gmail.com**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
